@@ -1,2 +1,2 @@
-# SLabCode
-writing code for Schnitzer and Ashwin Lab
+# LabCode
+writing code for Schnitzer and Ramayya Lab
